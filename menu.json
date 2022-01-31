@@ -2,119 +2,119 @@
  {
   "nome": "Bresaola e Rucola",
   "Descrizione": "Pomodoro, mozzarella, bresaola, rucola",
-  "Prezzo": 7.3,
+  "Prezzo": 7.30,
   "Categoria": "Pizza",
   "foto": "foto_1"
  },
  {
   "nome": "Bresaola e Grana",
   "Descrizione": "Pomodoro, mozzarella, bresaola, grana a scaglie",
-  "Prezzo": 7.3,
+  "Prezzo": 7.30,
   "Categoria": "Pizza",
   "foto": "foto_1"
  },
  {
   "nome": "Capricciosa",
   "Descrizione": "Pomodoro, mozzarella, prosciutto, funghi, carciofi",
-  "Prezzo": 7,
+  "Prezzo": 7.00,
   "Categoria": "Pizza",
   "foto": "foto_1"
  },
  {
   "nome": "Diavola",
   "Descrizione": "Pomodoro, mozzarella, salamino piccante",
-  "Prezzo": 6.7,
+  "Prezzo": 6.50,
   "Categoria": "Pizza",
   "foto": "foto_1"
  },
  {
   "nome": "4 Formaggi",
   "Descrizione": "Pomodoro, mozzarella, formaggio latteria, emmenthal, gorgonzola",
-  "Prezzo": 6.7,
+  "Prezzo": 6.70,
   "Categoria": "Pizza",
   "foto": "foto_1"
  },
  {
   "nome": "Focaccia",
   "Descrizione": "Aglio, rosmarino, olio",
-  "Prezzo": 4.5,
+  "Prezzo": 4.20,
   "Categoria": "Pizza",
   "foto": "foto_1"
  },
  {
   "nome": "Mergherita",
   "Descrizione": "Pomodoro, mozzarella",
-  "Prezzo": 5.5,
+  "Prezzo": 5.40,
   "Categoria": "Pizza",
   "foto": "foto_1"
  },
  {
   "nome": "Marinara",
   "Descrizione": "Pomodoro, origano, aglio",
-  "Prezzo": 4,
+  "Prezzo": 4.90,
   "Categoria": "Pizza",
   "foto": "foto_1"
  },
  {
   "nome": "Hot Dog",
   "Descrizione": "Wrustel, senape, ketchup, aglio",
-  "Prezzo": 7.3,
+  "Prezzo": 7.30,
   "Categoria": "Panini",
   "foto": "foto_2"
  },
  {
   "nome": "Hamburger classico",
   "Descrizione": "Hamburgher di manzo, insalata, pomodoro, ketchup, maionese",
-  "Prezzo": 7.3,
+  "Prezzo": 6.30,
   "Categoria": "Panini",
   "foto": "foto_2"
  },
  {
   "nome": "Chicken burgher ",
   "Descrizione": "Pollo, insalata, maionese, pomodoro",
-  "Prezzo": 7,
+  "Prezzo": 7.00,
   "Categoria": "Panini",
   "foto": "foto_2"
  },
  {
   "nome": "Patatine fritte",
   "Descrizione": "Patate, olio di semi di girasole",
-  "Prezzo": 3,
+  "Prezzo": 3.00,
   "Categoria": "Antipasti",
   "foto": "foto_3"
  },
  {
   "nome": "Crocchette di patate",
   "Descrizione": "Patate",
-  "Prezzo": 3,
+  "Prezzo": 2.00,
   "Categoria": "Antipasti",
   "foto": "foto_3"
  },
  {
   "nome": "Alette di pollo",
   "Descrizione": "Pollo, curry",
-  "Prezzo": 3,
+  "Prezzo": 2.00,
   "Categoria": "Antipasti",
   "foto": "foto_3"
  },
  {
   "nome": "Peroni",
   "Descrizione": "0,66L",
-  "Prezzo": 6,
+  "Prezzo": 5.50,
   "Categoria": "Bevande",
   "foto": "foto_4"
  },
  {
   "nome": "Coca Cola ",
   "Descrizione": "Lattina",
-  "Prezzo": 3,
+  "Prezzo": 3.00,
   "Categoria": "Bevande",
   "foto": "foto_4"
  },
  {
   "nome": "Fanta",
   "Descrizione": "Lattina",
-  "Prezzo": 3,
+  "Prezzo": 3.00,
   "Categoria": "Bevande",
   "foto": "foto_4"
  }
